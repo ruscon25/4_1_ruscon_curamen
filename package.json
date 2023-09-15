@@ -1,0 +1,24 @@
+{
+  "name": "4_1_ruscon_curamen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruscon25/4_1_ruscon_curamen.git"
+  },
+  "author": "Judd Ruscon T. Curamen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruscon25/4_1_ruscon_curamen/issues"
+  },
+  "homepage": "https://github.com/ruscon25/4_1_ruscon_curamen#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
